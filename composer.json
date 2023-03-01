@@ -12,7 +12,8 @@
     "require": {
         "maxime-rainville/silverstripe-cli-notify": "^0",
         "maxime-rainville/silverstripe-dev-meta": "^0",
-        "symfony/var-dumper": "^5"
+        "symfony/var-dumper": "^5",
+        "lekoala/silverstripe-debugbar": "*"
     },
     "minimum-stability": "dev"
 }
